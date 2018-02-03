@@ -1,2 +1,3 @@
-# micro
-A command-line text editor using python
+# yate-yet-another-text-editor
+
+## broken, under construct 
