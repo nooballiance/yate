@@ -1,4 +1,4 @@
-# [yate, yet another text editor](https://github.com/nooballiance/yate-yet-another-text-editor)
+# yate, yet another text editor
 
 ## Description
 
